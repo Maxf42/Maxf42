@@ -5,7 +5,6 @@
 - 📫 How to reach me
 - Telegram https://t.me/MaxF42
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: cycling enthusiast
 
 <!---
 Maxf42/Maxf42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
